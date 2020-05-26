@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919856881921",
+    "firebase_url": "https://unisys-a75c1.firebaseio.com",
+    "project_id": "unisys-a75c1",
+    "storage_bucket": "unisys-a75c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919856881921:android:0557188e3bec6e1e147b00",
+        "android_client_info": {
+          "package_name": "com.example.unisysapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919856881921-n06tdvahcle9on58rmq4htqra1kf1c8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyeBdR16E6_GprIgdjHJz9Ozd_7pCK2d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919856881921-n06tdvahcle9on58rmq4htqra1kf1c8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
