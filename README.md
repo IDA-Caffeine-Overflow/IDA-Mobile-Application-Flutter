@@ -1,6 +1,12 @@
 # IDA Mobile Cross Platform Application
 
+## Project Theme
 
+#### Domain: Data Analytics Using Machine Learning and AI/Cognitive Solutions Using Deep Learning
+
+A B2C AI model, which can tackle large volumes of information during calamities, assist the relief committee and prioritize the information accurately, reducing the response time and damages. 
+
+Enhanced multi-level precedence and pre-emption based priority relief routing should be implemented in India along with the option to pre-empt ongoing services, if needed in order to ensure efficacy.
 
 ## Getting Started
 
